@@ -1,3 +1,4 @@
+
 # Blog 1 Anonymous Blog
 
 ## Learning Competencies
@@ -132,3 +133,6 @@ Make it something you're proud to look at.
 [AR validations]: http://guides.rubyonrails.org/active_record_callbacks.html
 [valid_invalid]: http://guides.rubyonrails.org/active_record_validations.html#valid-questionmark-and-invalid-questionmark
 [errors]: http://guides.rubyonrails.org/active_record_validations.html#working-with-validation-errors
+=======
+SPACK
+=====

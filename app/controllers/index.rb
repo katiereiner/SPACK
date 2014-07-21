@@ -8,11 +8,11 @@ get '/about' do
 end 
 
 get '/team' do
-
+	erb :team
 end 
 
 get '/shop' do
-
+	erb :shop
 end 
 
 get '/blog' do
